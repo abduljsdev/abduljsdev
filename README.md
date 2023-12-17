@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/abduljsdev/abduljsdev/blob/main/github-header-image(1).png)]
+![MasterHead](https://github.com/abduljsdev/abduljsdev/blob/main/github-header-image(1).png)
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate fullstack(mern stack) developer from pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/abduljsdev/abduljsdev/blob/main/Creative%20Team.gif"/>
